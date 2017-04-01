@@ -1,4 +1,4 @@
-##会议室管理系统
+## 会议室管理系统
 #### 开发平台 
  - [x] 开发工具 IntelliJ Idea2016  MySql5.2 
  - [x] 框架技术 spring springmvc hibernate jpa  maven 
